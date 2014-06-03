@@ -5,7 +5,7 @@ the-swift-programming-language-in-chinese
 
 # 在线阅读
 
-使用Gitbook制作，可以直接[在线阅读](http://numbbbbb.github.io/numbbbbb/the-swift-programming-language-in-chinese/)。
+使用Gitbook制作，可以直接[在线阅读](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)。
 
 # 更新频率
 
